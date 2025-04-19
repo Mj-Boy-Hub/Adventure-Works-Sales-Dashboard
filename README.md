@@ -30,3 +30,17 @@ A guided Power BI course to demonstrate hands-on BI reporting skills using real-
 
 ### 👤 Customer Details
 ![Customer View](./assets/Adv works dasboard screenshot 4.PNG)
+
+
+## 🛠️ Skills Demonstrated
+- Power BI (Data Modeling, DAX, Visualizations)
+- Data Transformation with Power Query
+- Business Intelligence & Reporting
+- Sales, Customer, and Product Analysis
+
+
+## 💡 What I Learned
+- How to create interactive dashboards using Power BI
+- Real-world application of business metrics (Sales, Cost, Profit, Returns)
+- Using maps and filters to improve data insights
+- Structuring multi-page dashboards for better storytelling
