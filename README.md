@@ -60,5 +60,5 @@ A guided Power BI course to demonstrate hands-on BI reporting skills using real-
 
 ## 📞 Contact Info
 
-**Email**: [your-email@example.com](mailto:manojwalkermj@gmail.com)
+**Email**: [manojwalkermj@gmail.com](mailto:manojwalkermj@gmail.com)
 - **GitHub**: [Your GitHub Profile](https://github.com/Mj-Boy-Hub)
