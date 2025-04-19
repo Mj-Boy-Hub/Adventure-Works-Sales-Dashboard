@@ -45,3 +45,20 @@ A guided Power BI course to demonstrate hands-on BI reporting skills using real-
 - Using maps and filters to improve data insights
 - Structuring multi-page dashboards for better storytelling
 
+
+## 📊 How to Use the Dashboard
+1. **Download the PDF** to view the full report:
+   - [Download Full Report](./assets/sales-dashboard.pdf)
+   
+2. **View the Interactive Dashboard**:
+   - This dashboard was built using Power BI Desktop. You can view the visualizations and interact with the data locally using Power BI Desktop.
+   
+3. If you want to modify or explore the data, **download the Power BI file** and open it with Power BI Desktop.
+
+   - [Download Power BI File](./Adventure-Works-Sales-Dashboard.pbix)
+
+
+## 📞 Contact Info
+
+**Email**: [your-email@example.com](mailto:manojwalkermj@gmail.com)
+- **GitHub**: [Your GitHub Profile](https://github.com/Mj-Boy-Hub)
