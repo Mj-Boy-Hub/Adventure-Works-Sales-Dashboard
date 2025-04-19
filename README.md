@@ -44,3 +44,4 @@ A guided Power BI course to demonstrate hands-on BI reporting skills using real-
 - Real-world application of business metrics (Sales, Cost, Profit, Returns)
 - Using maps and filters to improve data insights
 - Structuring multi-page dashboards for better storytelling
+
