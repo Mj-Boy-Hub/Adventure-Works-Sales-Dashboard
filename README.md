@@ -62,3 +62,4 @@ A guided Power BI course to demonstrate hands-on BI reporting skills using real-
 
 **Email**: [manojwalkermj@gmail.com](mailto:manojwalkermj@gmail.com)
 - **GitHub**: [Your GitHub Profile](https://github.com/Mj-Boy-Hub)
+- **Notion Portfolio**: [Mj | Power Bi Developer](https://www.notion.so/Mj-Power-BI-Portfolio-1dcf2fc79d2880e293b5d5d7fb1c0af7)
